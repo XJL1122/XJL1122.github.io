@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-02T02:08:18.363Z</updated>
+  <updated>2023-09-07T03:02:53.979Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SQL语法汇总</title>
+    <link href="http://example.com/2023/09/07/SQL%E8%AF%AD%E6%B3%95%E6%B1%87%E6%80%BB/"/>
+    <id>http://example.com/2023/09/07/SQL%E8%AF%AD%E6%B3%95%E6%B1%87%E6%80%BB/</id>
+    <published>2023-09-07T02:05:31.000Z</published>
+    <updated>2023-09-07T03:02:53.979Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="SQL语法汇总"><a href="#SQL语法汇总" class="headerlink" title="SQL语法汇总"></a>SQL语法汇总</h1><h2 id="一、postgresql"><a href="#一、postgresql" class="headerlink" title="一、postgresql"></a>一、postgresql</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;SQL语法汇总&quot;&gt;&lt;a href=&quot;#SQL语法汇总&quot; class=&quot;headerlink&quot; title=&quot;SQL语法汇总&quot;&gt;&lt;/a&gt;SQL语法汇总&lt;/h1&gt;&lt;h2 id=&quot;一、postgresql&quot;&gt;&lt;a href=&quot;#一、postgresql&quot; class=&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
